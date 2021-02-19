@@ -13,15 +13,18 @@ If you want to learn about Variational Quantum Algorithms and Noisy Intermediate
 
 ## Content
 
-- Single-qubit classifier [3]
-- Meta-Variational Quantum Eigensolver for spin chains [4]
-- Meta-VQE for chemistry [4]
-- Quantum function fitter [5,6]
+- [Single-qubit classifier](https://github.com/AlbaCL/qhack21/blob/main/SingleQubitClassifier.ipynb) [3]
+- [Meta-Variational Quantum Eigensolver for spin chains](https://github.com/AlbaCL/qhack21/blob/main/Meta-VQE.ipynb) [4]
+- [Meta-VQE for chemistry](https://github.com/AlbaCL/qhack21/blob/main/Molecular-Meta-VQE.ipynb) [4]
+- [Quantum function fitter](https://github.com/AlbaCL/qhack21/blob/main/QFit.ipynb) [5,6]
+
+The Meta-VQE notebook come from [this repository](https://github.com/aspuru-guzik-group/meta-vqe).
 
 
 ## References
 
-[1] _Tequila: A platform for rapid development of quantum algorithms_, J. S. Kottmann, S. Alperin-Lea, T. Tamayo-Mendoza, A. Cervera-Lierta, C. Lavigne, T.-C. Yen, V. Verteletskyi, P. Schleich, A. Anand, M. Degroote, S. Chaney, M. Kesibi, N. Grace Curnow, B. Solo, G. Tsilimigkounakis, C. Zendejas-Morales, A. F. Izmaylov, A. Aspuru-Guzik, [Quantum Science and Technology](https://iopscience.iop.org/article/10.1088/2058-9565/abe567/pdf), [arXiv:2011.03057 [quant-ph]](https://arxiv.org/abs/2011.03057).
+[1] _Tequila: A platform for rapid development of quantum algorithms_, <br/>
+J. S. Kottmann, S. Alperin-Lea, T. Tamayo-Mendoza, A. Cervera-Lierta, C. Lavigne, T.-C. Yen, V. Verteletskyi, P. Schleich, A. Anand, M. Degroote, S. Chaney, M. Kesibi, N. Grace Curnow, B. Solo, G. Tsilimigkounakis, C. Zendejas-Morales, A. F. Izmaylov, A. Aspuru-Guzik, <br/>[Quantum Science and Technology](https://iopscience.iop.org/article/10.1088/2058-9565/abe567/pdf), [arXiv:2011.03057 [quant-ph]](https://arxiv.org/abs/2011.03057).
 
 [2] _Noisy intermediate-scale quantum (NISQ) algorithms_, <br/>
 K. Bharti, A. Cervera-Lierta, T. H. Kyaw, T. Haug, S. Alperin-Lea, A. Anand, M. Degroote, H. Heimonen, J. S. Kottmann, T. Menke, W.-K. Mok, S. Sim, L.-C. Kwek, A. Aspuru-Guzik, <br/>
