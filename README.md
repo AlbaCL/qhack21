@@ -1,7 +1,7 @@
 # Q-Hack 2021
 
 This is a repository with some code examples to get a gentle introduction to classical data encoding in quantum circuits and how to use it to construct a variational quantum classifier, a function fitter and to learn energy profiles of Hamiltonians.
-It is the complementary material from my [Q-Hack 2021](https://qhack.ai/index.html) presentation (slides will be uploaded soon).
+It is the complementary material from my [Q-Hack 2021](https://qhack.ai/index.html) presentation (you can find the [slides here](https://albacl.github.io/files/QHack2021.pdf) and the [recording here](https://www.twitch.tv/videos/920118091)).
 
 You will need to install `Tequila`[1] to run the notebook and play with them. 
 
